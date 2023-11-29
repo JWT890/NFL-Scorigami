@@ -1,0 +1,3 @@
+Somewhat working NFL scorigami checker. Mainly calls all scores Scorigami, which they technically
+are in a sense. Possible will find a way to call scores not a Scorigami. Made with assistance from
+CGPT
